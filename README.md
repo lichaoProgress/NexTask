@@ -14,7 +14,7 @@
 
 ## API文档
 地址：http://127.0.0.1:8099/docs#/
-![nextask_API.png](docs/images/nextask_API.png)
+![nextask_API.png](docs/images/NexTask_API.png)
 
 ## 单元测试地址
 tests/test_tasks.py
